@@ -61,6 +61,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Orchids](https://www.orchids.app/) - The Vibe Coding IDE that can build, watch, and listen on par with a human developer.
 - [Trae IDE](https://www.trae.ai/) - Free AI IDE by ByteDance with Builder Mode, free access to GPT-4o, Claude Sonnet, and DeepSeek R1.
 - [Devin](https://devin.ai/) - Autonomous AI software engineer by Cognition with its own IDE, shell, browser, and cloud sandbox.
+- [Singularity](https://singularity.meteorfactory.dev/) - Desktop app that runs coding agents (Claude Code, Codex, Copilot, Gemini, Mistral, Ollama) from a ticket board, with dependency scheduling, sub-tickets and isolated Git worktrees.
 
 ## Mobile Apps
 
